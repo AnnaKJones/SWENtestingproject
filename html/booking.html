@@ -1,0 +1,89 @@
+<html>
+    <meta charset="utf-8">
+    <head>
+      <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="/css/style.css">  
+    </head>
+    <body>
+           <header id="banner">Hotel Comingle</header>
+    <div class="topnav">
+  <a  href="homepage.html">Home</a>
+  <a class="active" href="/html/booking.html">Book Room</a>
+  <a href="/php/availablerooms.php">Rooms and Rates</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <div class=" "><a class="admin" href="/php/index.php">Admin Portal</a></div>
+ 
+</div>
+<div class="col-sm-4">
+    
+    <form action="/php/newbooking.php" method="post" name="guestform" onsumbmit="return validateForm()">
+        <h1>Booking Details</h1>
+    <div class="form-group">
+    <label for="name">Full Name</label>
+    <input type="text" class="form-control" name="name" aria-describedby="name" placeholder="Enter your full name" required>
+  </div>
+  <div class="form-group">
+    <label for="email">Email address</label>
+    <input type="email" class="form-control" id="email" name='email' aria-describedby="email" placeholder="example: johndoe@gmail.com" required>
+    
+  </div>
+  <div class="form-group">
+    <label for="number">Telephone</label>
+    <input type="text" class="form-control" name="number" aria-describedby="number"  placeholder="1(876)123-4567" required>
+  </div>
+  <div class="form-group">
+    <label for="start_date">Start Date</label>
+    <input type="text" class="form-control" name='startduration' aria-describedby="start_date"  placeholder="yyyy-dd-mm" required>
+  </div>
+  <div class="form-group">
+    <label for="end_date">End Date</label>
+    <input type="text" class="form-control" name='endduration' aria-describedby="end_date"  placeholder="yyyy-dd-mm" required>
+  </div>
+  <div class="form-group">
+    <label for="booking_type">Booking Types</label>
+    <select name='booking_type' id='booking_type' class="form-control" required>
+    <option value="" disabled selected>Choose your booking type</option>
+      <option>Penthouse</option>
+      <option>Family Suite</option>
+      <option>Double Room</option>
+      <option>Single Room</option>
+    </select>
+  </div>
+  
+  <div class="form-group">
+    <label for="num_adults">No.Adults</label>
+    <input type="text" class="form-control" name="adults" aria-describedby="adults"  placeholder="Enter how many" required>
+  </div>
+  
+  <div class="form-group">
+    <label for="children">No.Children </label>
+    <input type="text" class="form-control" name="children" aria-describedby="children"  placeholder="Enter how many" required>
+  </div>
+  
+  <div>
+      <h1>Payment Details</h1>
+    <div class="form-group">
+    <label for="paymentname">Card Holder's Name </label>
+    <input type="text" class="form-control" name="paymentname" aria-describedby="paymentname"  placeholder="Jon Doe" required>
+  </div>
+  <div class="form-group">
+    <label for="payment1">Credit Card Number </label>
+    <input type="text" class="form-control" name="payment1" aria-describedby="payment1"  placeholder="1234 5678 9876" required>
+  </div>
+  <div class="form-group">
+    <label for="payment">CV  </label>
+    <input type="text" class="form-control" name="payment2" aria-describedby="payment2"  placeholder="876" required>
+  </div>
+  <div class="form-group">
+    <label for="paymentexp">Expiration Date </label>
+    <input type="text" class="form-control" name="paymentexp" aria-describedby="paymentexp"  placeholder="yyyy-dd-mm" required>
+  </div>
+      
+  </div>
+  
+  <button type="submit" class="btn btn-primary" name="submit">Submit</button>
+</form>
+</div>
+    </body>
+</html>

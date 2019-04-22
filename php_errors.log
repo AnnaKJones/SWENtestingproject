@@ -1,0 +1,381 @@
+[12-Apr-2019 09:21:14 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[12-Apr-2019 09:21:15 UTC] PHP Stack trace:
+[12-Apr-2019 09:21:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[12-Apr-2019 09:21:41 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[12-Apr-2019 09:21:41 UTC] PHP Stack trace:
+[12-Apr-2019 09:21:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[12-Apr-2019 14:48:24 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[12-Apr-2019 14:48:24 UTC] PHP Stack trace:
+[12-Apr-2019 14:48:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[12-Apr-2019 21:04:07 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[12-Apr-2019 21:04:07 UTC] PHP Stack trace:
+[12-Apr-2019 21:04:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[12-Apr-2019 22:36:40 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[12-Apr-2019 22:36:40 UTC] PHP Stack trace:
+[12-Apr-2019 22:36:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[13-Apr-2019 00:59:14 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[13-Apr-2019 00:59:14 UTC] PHP Stack trace:
+[13-Apr-2019 00:59:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[13-Apr-2019 01:12:25 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[13-Apr-2019 01:12:25 UTC] PHP Stack trace:
+[13-Apr-2019 01:12:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[13-Apr-2019 02:45:44 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[13-Apr-2019 02:45:44 UTC] PHP Stack trace:
+[13-Apr-2019 02:45:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[13-Apr-2019 08:38:49 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[13-Apr-2019 08:38:49 UTC] PHP Stack trace:
+[13-Apr-2019 08:38:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[13-Apr-2019 08:41:42 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[13-Apr-2019 08:41:42 UTC] PHP Stack trace:
+[13-Apr-2019 08:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[13-Apr-2019 08:42:11 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[13-Apr-2019 08:42:11 UTC] PHP Stack trace:
+[13-Apr-2019 08:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[13-Apr-2019 14:58:28 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[13-Apr-2019 14:58:28 UTC] PHP Stack trace:
+[13-Apr-2019 14:58:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[13-Apr-2019 16:30:24 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[13-Apr-2019 16:30:24 UTC] PHP Stack trace:
+[13-Apr-2019 16:30:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[13-Apr-2019 17:52:07 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[13-Apr-2019 17:52:07 UTC] PHP Stack trace:
+[13-Apr-2019 17:52:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[13-Apr-2019 18:01:37 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[13-Apr-2019 18:01:37 UTC] PHP Stack trace:
+[13-Apr-2019 18:01:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[13-Apr-2019 21:58:41 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[13-Apr-2019 21:58:41 UTC] PHP Stack trace:
+[13-Apr-2019 21:58:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[13-Apr-2019 22:04:20 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[13-Apr-2019 22:04:20 UTC] PHP Stack trace:
+[13-Apr-2019 22:04:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[13-Apr-2019 23:11:53 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/ubuntu/workspace/php/checkinprocess.php on line 29
+[13-Apr-2019 23:11:53 UTC] PHP Stack trace:
+[13-Apr-2019 23:11:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/checkinprocess.php:0
+[13-Apr-2019 23:11:57 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/ubuntu/workspace/php/checkinprocess.php on line 29
+[13-Apr-2019 23:11:57 UTC] PHP Stack trace:
+[13-Apr-2019 23:11:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/checkinprocess.php:0
+[13-Apr-2019 23:13:22 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/ubuntu/workspace/php/checkinprocess.php on line 30
+[13-Apr-2019 23:13:22 UTC] PHP Stack trace:
+[13-Apr-2019 23:13:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/checkinprocess.php:0
+[13-Apr-2019 23:15:49 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/ubuntu/workspace/php/checkinprocess.php on line 28
+[13-Apr-2019 23:15:49 UTC] PHP Stack trace:
+[13-Apr-2019 23:15:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/checkinprocess.php:0
+[13-Apr-2019 23:28:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/php/checkinprocess.php on line 27
+[14-Apr-2019 02:32:11 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[14-Apr-2019 02:32:11 UTC] PHP Stack trace:
+[14-Apr-2019 02:32:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[14-Apr-2019 03:26:44 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[14-Apr-2019 03:26:44 UTC] PHP Stack trace:
+[14-Apr-2019 03:26:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[14-Apr-2019 05:21:49 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[14-Apr-2019 05:21:49 UTC] PHP Stack trace:
+[14-Apr-2019 05:21:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[14-Apr-2019 06:59:54 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[14-Apr-2019 06:59:54 UTC] PHP Stack trace:
+[14-Apr-2019 06:59:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[14-Apr-2019 07:26:39 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[14-Apr-2019 07:26:39 UTC] PHP Stack trace:
+[14-Apr-2019 07:26:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[14-Apr-2019 08:39:50 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/availablerooms.php on line 65
+[14-Apr-2019 08:39:50 UTC] PHP Stack trace:
+[14-Apr-2019 08:39:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[14-Apr-2019 08:39:50 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/php/availablerooms.php:65
+[14-Apr-2019 08:39:50 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/availablerooms.php on line 76
+[14-Apr-2019 08:39:50 UTC] PHP Stack trace:
+[14-Apr-2019 08:39:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[14-Apr-2019 08:39:50 UTC] PHP   2. mysqli->close() /home/ubuntu/workspace/php/availablerooms.php:76
+[14-Apr-2019 08:40:59 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/php/availablerooms.php on line 36
+[14-Apr-2019 08:40:59 UTC] PHP Stack trace:
+[14-Apr-2019 08:40:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[14-Apr-2019 08:40:59 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/php/availablerooms.php:36
+[14-Apr-2019 08:40:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/availablerooms.php on line 65
+[14-Apr-2019 08:40:59 UTC] PHP Stack trace:
+[14-Apr-2019 08:40:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[14-Apr-2019 08:40:59 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/php/availablerooms.php:65
+[14-Apr-2019 08:40:59 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/availablerooms.php on line 76
+[14-Apr-2019 08:40:59 UTC] PHP Stack trace:
+[14-Apr-2019 08:40:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[14-Apr-2019 08:40:59 UTC] PHP   2. mysqli->close() /home/ubuntu/workspace/php/availablerooms.php:76
+[14-Apr-2019 09:00:15 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[14-Apr-2019 09:00:15 UTC] PHP Stack trace:
+[14-Apr-2019 09:00:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[14-Apr-2019 09:15:55 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[14-Apr-2019 09:15:55 UTC] PHP Stack trace:
+[14-Apr-2019 09:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[14-Apr-2019 09:21:56 UTC] PHP Warning:  date() expects parameter 2 to be long, string given in /home/ubuntu/workspace/php/checkinprocess.php on line 6
+[14-Apr-2019 09:21:56 UTC] PHP Stack trace:
+[14-Apr-2019 09:21:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/checkinprocess.php:0
+[14-Apr-2019 09:21:56 UTC] PHP   2. date() /home/ubuntu/workspace/php/checkinprocess.php:6
+[14-Apr-2019 14:13:03 UTC] PHP Catchable fatal error:  Object of class DateInterval could not be converted to string in /home/ubuntu/workspace/php/newbooking.php on line 28
+[14-Apr-2019 14:13:03 UTC] PHP Stack trace:
+[14-Apr-2019 14:13:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[14-Apr-2019 14:14:55 UTC] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/ubuntu/workspace/php/newbooking.php on line 18
+[14-Apr-2019 14:14:55 UTC] PHP Stack trace:
+[14-Apr-2019 14:14:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[14-Apr-2019 14:14:55 UTC] PHP   2. date_diff() /home/ubuntu/workspace/php/newbooking.php:18
+[14-Apr-2019 14:24:24 UTC] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/ubuntu/workspace/php/newbooking.php on line 18
+[14-Apr-2019 14:24:24 UTC] PHP Stack trace:
+[14-Apr-2019 14:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[14-Apr-2019 14:24:24 UTC] PHP   2. date_diff() /home/ubuntu/workspace/php/newbooking.php:18
+[14-Apr-2019 14:26:57 UTC] PHP Parse error:  syntax error, unexpected '$date2' (T_VARIABLE) in /home/ubuntu/workspace/php/newbooking.php on line 18
+[14-Apr-2019 14:27:30 UTC] PHP Catchable fatal error:  Object of class DateInterval could not be converted to string in /home/ubuntu/workspace/php/newbooking.php on line 28
+[14-Apr-2019 14:27:30 UTC] PHP Stack trace:
+[14-Apr-2019 14:27:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[14-Apr-2019 14:30:28 UTC] PHP Catchable fatal error:  Object of class DateInterval could not be converted to string in /home/ubuntu/workspace/php/newbooking.php on line 29
+[14-Apr-2019 14:30:28 UTC] PHP Stack trace:
+[14-Apr-2019 14:30:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[14-Apr-2019 14:30:49 UTC] PHP Catchable fatal error:  Object of class DateInterval could not be converted to string in /home/ubuntu/workspace/php/newbooking.php on line 29
+[14-Apr-2019 14:30:49 UTC] PHP Stack trace:
+[14-Apr-2019 14:30:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[14-Apr-2019 14:31:58 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/php/newbooking.php on line 22
+[14-Apr-2019 14:56:07 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ubuntu/workspace/php/newbooking.php on line 30
+[14-Apr-2019 15:50:06 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[14-Apr-2019 15:50:06 UTC] PHP Stack trace:
+[14-Apr-2019 15:50:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[14-Apr-2019 17:37:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/viewchecked.php on line 94
+[14-Apr-2019 17:37:05 UTC] PHP Stack trace:
+[14-Apr-2019 17:37:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/viewchecked.php:0
+[14-Apr-2019 17:37:05 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/php/viewchecked.php:94
+[14-Apr-2019 17:37:05 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/viewchecked.php on line 117
+[14-Apr-2019 17:37:05 UTC] PHP Stack trace:
+[14-Apr-2019 17:37:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/viewchecked.php:0
+[14-Apr-2019 17:37:05 UTC] PHP   2. mysqli->close() /home/ubuntu/workspace/php/viewchecked.php:117
+[14-Apr-2019 17:38:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/viewchecked.php on line 94
+[14-Apr-2019 17:38:55 UTC] PHP Stack trace:
+[14-Apr-2019 17:38:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/viewchecked.php:0
+[14-Apr-2019 17:38:55 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/php/viewchecked.php:94
+[14-Apr-2019 17:38:55 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/viewchecked.php on line 117
+[14-Apr-2019 17:38:55 UTC] PHP Stack trace:
+[14-Apr-2019 17:38:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/viewchecked.php:0
+[14-Apr-2019 17:38:55 UTC] PHP   2. mysqli->close() /home/ubuntu/workspace/php/viewchecked.php:117
+[14-Apr-2019 17:41:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/viewchecked.php on line 94
+[14-Apr-2019 17:41:15 UTC] PHP Stack trace:
+[14-Apr-2019 17:41:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/viewchecked.php:0
+[14-Apr-2019 17:41:15 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/php/viewchecked.php:94
+[14-Apr-2019 17:41:15 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/viewchecked.php on line 117
+[14-Apr-2019 17:41:15 UTC] PHP Stack trace:
+[14-Apr-2019 17:41:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/viewchecked.php:0
+[14-Apr-2019 17:41:15 UTC] PHP   2. mysqli->close() /home/ubuntu/workspace/php/viewchecked.php:117
+[14-Apr-2019 17:43:33 UTC] PHP Fatal error:  Call to undefined method mysqli::mysqli_multi_query() in /home/ubuntu/workspace/php/checkoutprocess.php on line 18
+[14-Apr-2019 17:43:33 UTC] PHP Stack trace:
+[14-Apr-2019 17:43:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/checkoutprocess.php:0
+[14-Apr-2019 20:49:47 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[14-Apr-2019 20:49:47 UTC] PHP Stack trace:
+[14-Apr-2019 20:49:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[14-Apr-2019 20:55:30 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[14-Apr-2019 20:55:30 UTC] PHP Stack trace:
+[14-Apr-2019 20:55:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[14-Apr-2019 21:43:11 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[14-Apr-2019 21:43:11 UTC] PHP Stack trace:
+[14-Apr-2019 21:43:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[15-Apr-2019 18:03:42 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[15-Apr-2019 18:03:42 UTC] PHP Stack trace:
+[15-Apr-2019 18:03:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[15-Apr-2019 20:30:44 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[15-Apr-2019 20:30:44 UTC] PHP Stack trace:
+[15-Apr-2019 20:30:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[15-Apr-2019 22:53:23 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[15-Apr-2019 22:53:23 UTC] PHP Stack trace:
+[15-Apr-2019 22:53:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[15-Apr-2019 22:55:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'hoteldb' in /home/ubuntu/workspace/php/connectdb.php on line 8
+[15-Apr-2019 22:55:40 UTC] PHP Stack trace:
+[15-Apr-2019 22:55:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/adminhome.php:0
+[15-Apr-2019 22:55:40 UTC] PHP   2. require_once() /home/ubuntu/workspace/php/adminhome.php:66
+[15-Apr-2019 22:55:40 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/php/connectdb.php:8
+[15-Apr-2019 22:55:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'hoteldb' in /home/ubuntu/workspace/php/connectdb.php on line 8
+[15-Apr-2019 22:55:58 UTC] PHP Stack trace:
+[15-Apr-2019 22:55:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/viewchecked.php:0
+[15-Apr-2019 22:55:58 UTC] PHP   2. require_once() /home/ubuntu/workspace/php/viewchecked.php:43
+[15-Apr-2019 22:55:58 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/php/connectdb.php:8
+[15-Apr-2019 22:56:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'hoteldb' in /home/ubuntu/workspace/php/connectdb.php on line 8
+[15-Apr-2019 22:56:02 UTC] PHP Stack trace:
+[15-Apr-2019 22:56:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/adminhome.php:0
+[15-Apr-2019 22:56:02 UTC] PHP   2. require_once() /home/ubuntu/workspace/php/adminhome.php:66
+[15-Apr-2019 22:56:02 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/php/connectdb.php:8
+[15-Apr-2019 22:56:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'hoteldb' in /home/ubuntu/workspace/php/connectdb.php on line 8
+[15-Apr-2019 22:56:09 UTC] PHP Stack trace:
+[15-Apr-2019 22:56:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[15-Apr-2019 22:56:09 UTC] PHP   2. require_once() /home/ubuntu/workspace/php/availablerooms.php:35
+[15-Apr-2019 22:56:09 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/php/connectdb.php:8
+[15-Apr-2019 22:56:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'hoteldb' in /home/ubuntu/workspace/php/connectdb.php on line 8
+[15-Apr-2019 22:56:30 UTC] PHP Stack trace:
+[15-Apr-2019 22:56:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[15-Apr-2019 22:56:30 UTC] PHP   2. require_once() /home/ubuntu/workspace/php/availablerooms.php:35
+[15-Apr-2019 22:56:30 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/php/connectdb.php:8
+[15-Apr-2019 22:57:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'hoteldb' in /home/ubuntu/workspace/php/connectdb.php on line 8
+[15-Apr-2019 22:57:02 UTC] PHP Stack trace:
+[15-Apr-2019 22:57:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[15-Apr-2019 22:57:02 UTC] PHP   2. require_once() /home/ubuntu/workspace/php/availablerooms.php:35
+[15-Apr-2019 22:57:02 UTC] PHP   3. mysqli->mysqli() /home/ubuntu/workspace/php/connectdb.php:8
+[16-Apr-2019 00:09:33 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[16-Apr-2019 00:09:33 UTC] PHP Stack trace:
+[16-Apr-2019 00:09:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[16-Apr-2019 00:49:05 UTC] PHP Fatal error:  Class 'Plasticbrain\FlashMessages\FlashMessages' not found in /home/ubuntu/workspace/php/newbooking.php on line 17
+[16-Apr-2019 00:49:05 UTC] PHP Stack trace:
+[16-Apr-2019 00:49:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[16-Apr-2019 00:52:35 UTC] PHP Fatal error:  Call to a member function success() on a non-object in /home/ubuntu/workspace/php/availablerooms.php on line 26
+[16-Apr-2019 00:52:35 UTC] PHP Stack trace:
+[16-Apr-2019 00:52:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[16-Apr-2019 02:36:47 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[16-Apr-2019 02:36:47 UTC] PHP Stack trace:
+[16-Apr-2019 02:36:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[16-Apr-2019 04:35:45 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[16-Apr-2019 04:35:45 UTC] PHP Stack trace:
+[16-Apr-2019 04:35:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[16-Apr-2019 10:46:16 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[16-Apr-2019 10:46:16 UTC] PHP Stack trace:
+[16-Apr-2019 10:46:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[16-Apr-2019 13:11:20 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[16-Apr-2019 13:11:20 UTC] PHP Stack trace:
+[16-Apr-2019 13:11:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[16-Apr-2019 13:14:51 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[16-Apr-2019 13:14:51 UTC] PHP Stack trace:
+[16-Apr-2019 13:14:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[16-Apr-2019 13:15:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/availablerooms.php on line 142
+[16-Apr-2019 13:15:02 UTC] PHP Stack trace:
+[16-Apr-2019 13:15:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[16-Apr-2019 13:15:02 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/php/availablerooms.php:142
+[16-Apr-2019 13:15:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/availablerooms.php on line 171
+[16-Apr-2019 13:15:02 UTC] PHP Stack trace:
+[16-Apr-2019 13:15:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[16-Apr-2019 13:15:02 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/php/availablerooms.php:171
+[16-Apr-2019 13:15:02 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/availablerooms.php on line 182
+[16-Apr-2019 13:15:02 UTC] PHP Stack trace:
+[16-Apr-2019 13:15:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[16-Apr-2019 13:15:02 UTC] PHP   2. mysqli->close() /home/ubuntu/workspace/php/availablerooms.php:182
+[16-Apr-2019 17:51:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/availablerooms.php on line 142
+[16-Apr-2019 17:51:08 UTC] PHP Stack trace:
+[16-Apr-2019 17:51:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[16-Apr-2019 17:51:08 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/php/availablerooms.php:142
+[16-Apr-2019 17:51:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/availablerooms.php on line 171
+[16-Apr-2019 17:51:08 UTC] PHP Stack trace:
+[16-Apr-2019 17:51:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[16-Apr-2019 17:51:08 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/php/availablerooms.php:171
+[16-Apr-2019 17:51:08 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/availablerooms.php on line 182
+[16-Apr-2019 17:51:08 UTC] PHP Stack trace:
+[16-Apr-2019 17:51:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[16-Apr-2019 17:51:08 UTC] PHP   2. mysqli->close() /home/ubuntu/workspace/php/availablerooms.php:182
+[16-Apr-2019 17:52:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/availablerooms.php on line 142
+[16-Apr-2019 17:52:18 UTC] PHP Stack trace:
+[16-Apr-2019 17:52:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[16-Apr-2019 17:52:18 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/php/availablerooms.php:142
+[16-Apr-2019 17:52:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/availablerooms.php on line 171
+[16-Apr-2019 17:52:18 UTC] PHP Stack trace:
+[16-Apr-2019 17:52:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[16-Apr-2019 17:52:18 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/php/availablerooms.php:171
+[16-Apr-2019 17:52:18 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ubuntu/workspace/php/availablerooms.php on line 182
+[16-Apr-2019 17:52:18 UTC] PHP Stack trace:
+[16-Apr-2019 17:52:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/availablerooms.php:0
+[16-Apr-2019 17:52:18 UTC] PHP   2. mysqli->close() /home/ubuntu/workspace/php/availablerooms.php:182
+[16-Apr-2019 17:55:29 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[16-Apr-2019 17:55:29 UTC] PHP Stack trace:
+[16-Apr-2019 17:55:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[16-Apr-2019 18:08:36 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[16-Apr-2019 18:08:36 UTC] PHP Stack trace:
+[16-Apr-2019 18:08:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[16-Apr-2019 20:17:29 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[16-Apr-2019 20:17:29 UTC] PHP Stack trace:
+[16-Apr-2019 20:17:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[16-Apr-2019 20:19:50 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[16-Apr-2019 20:19:50 UTC] PHP Stack trace:
+[16-Apr-2019 20:19:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[20-Apr-2019 14:52:34 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[20-Apr-2019 14:52:34 UTC] PHP Stack trace:
+[20-Apr-2019 14:52:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[21-Apr-2019 16:23:23 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 60
+[21-Apr-2019 16:23:23 UTC] PHP Stack trace:
+[21-Apr-2019 16:23:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[21-Apr-2019 16:23:23 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 60
+[21-Apr-2019 16:23:23 UTC] PHP Stack trace:
+[21-Apr-2019 16:23:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[21-Apr-2019 18:23:33 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[21-Apr-2019 18:23:33 UTC] PHP Stack trace:
+[21-Apr-2019 18:23:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[21-Apr-2019 18:24:40 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 60
+[21-Apr-2019 18:24:40 UTC] PHP Stack trace:
+[21-Apr-2019 18:24:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[21-Apr-2019 18:24:40 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 60
+[21-Apr-2019 18:24:40 UTC] PHP Stack trace:
+[21-Apr-2019 18:24:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[21-Apr-2019 18:27:04 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[21-Apr-2019 18:27:04 UTC] PHP Stack trace:
+[21-Apr-2019 18:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[21-Apr-2019 18:31:29 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 60
+[21-Apr-2019 18:31:29 UTC] PHP Stack trace:
+[21-Apr-2019 18:31:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[21-Apr-2019 18:31:29 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 60
+[21-Apr-2019 18:31:29 UTC] PHP Stack trace:
+[21-Apr-2019 18:31:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 01:43:37 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 60
+[22-Apr-2019 01:43:37 UTC] PHP Stack trace:
+[22-Apr-2019 01:43:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 01:43:37 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 60
+[22-Apr-2019 01:43:37 UTC] PHP Stack trace:
+[22-Apr-2019 01:43:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 01:43:59 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[22-Apr-2019 01:43:59 UTC] PHP Stack trace:
+[22-Apr-2019 01:43:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[22-Apr-2019 06:15:25 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 60
+[22-Apr-2019 06:15:25 UTC] PHP Stack trace:
+[22-Apr-2019 06:15:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 06:15:25 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 60
+[22-Apr-2019 06:15:25 UTC] PHP Stack trace:
+[22-Apr-2019 06:15:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 06:17:39 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 6
+[22-Apr-2019 06:17:39 UTC] PHP Stack trace:
+[22-Apr-2019 06:17:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 06:17:39 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 6
+[22-Apr-2019 06:17:39 UTC] PHP Stack trace:
+[22-Apr-2019 06:17:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 06:19:33 UTC] PHP Warning:  require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 6
+[22-Apr-2019 06:19:33 UTC] PHP Stack trace:
+[22-Apr-2019 06:19:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 06:19:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 6
+[22-Apr-2019 06:19:33 UTC] PHP Stack trace:
+[22-Apr-2019 06:19:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 07:15:36 UTC] PHP Warning:  require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 6
+[22-Apr-2019 07:15:36 UTC] PHP Stack trace:
+[22-Apr-2019 07:15:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 07:15:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 6
+[22-Apr-2019 07:15:36 UTC] PHP Stack trace:
+[22-Apr-2019 07:15:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 08:01:31 UTC] PHP Warning:  require(/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 6
+[22-Apr-2019 08:01:31 UTC] PHP Stack trace:
+[22-Apr-2019 08:01:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 08:01:31 UTC] PHP Fatal error:  require(): Failed opening required '/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 6
+[22-Apr-2019 08:01:31 UTC] PHP Stack trace:
+[22-Apr-2019 08:01:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 08:04:03 UTC] PHP Warning:  require(/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 6
+[22-Apr-2019 08:04:03 UTC] PHP Stack trace:
+[22-Apr-2019 08:04:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 08:04:03 UTC] PHP Fatal error:  require(): Failed opening required '/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 6
+[22-Apr-2019 08:04:03 UTC] PHP Stack trace:
+[22-Apr-2019 08:04:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 08:04:49 UTC] PHP Warning:  require(/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 5
+[22-Apr-2019 08:04:49 UTC] PHP Stack trace:
+[22-Apr-2019 08:04:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 08:04:49 UTC] PHP Fatal error:  require(): Failed opening required '/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 5
+[22-Apr-2019 08:04:49 UTC] PHP Stack trace:
+[22-Apr-2019 08:04:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 08:05:31 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 5
+[22-Apr-2019 08:05:31 UTC] PHP Stack trace:
+[22-Apr-2019 08:05:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 08:05:31 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 5
+[22-Apr-2019 08:05:31 UTC] PHP Stack trace:
+[22-Apr-2019 08:05:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 08:07:13 UTC] PHP Warning:  require(/php/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 5
+[22-Apr-2019 08:07:13 UTC] PHP Stack trace:
+[22-Apr-2019 08:07:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 08:07:13 UTC] PHP Fatal error:  require(): Failed opening required '/php/PHPMailer/src/Exception.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 5
+[22-Apr-2019 08:07:13 UTC] PHP Stack trace:
+[22-Apr-2019 08:07:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 08:09:29 UTC] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/newbooking.php on line 61
+[22-Apr-2019 08:09:29 UTC] PHP Stack trace:
+[22-Apr-2019 08:09:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 08:09:29 UTC] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/php/newbooking.php on line 61
+[22-Apr-2019 08:09:29 UTC] PHP Stack trace:
+[22-Apr-2019 08:09:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/newbooking.php:0
+[22-Apr-2019 09:05:52 UTC] PHP Warning:  Illegal string offset 'id' in /home/ubuntu/workspace/php/login.php on line 24
+[22-Apr-2019 09:05:52 UTC] PHP Stack trace:
+[22-Apr-2019 09:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
